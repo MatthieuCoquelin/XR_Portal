@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainScene_HandController.unity
     guid: 3670cae08fd94024f9c2c518b42289d4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainScene_HandControllerAsHand.unity
     guid: a0e07fd9cd4214a41b5795c80cdb6450
+  - enabled: 1
+    path: Assets/Scenes/PortalMainScene.unity
+    guid: 5a87385ba3e9a514eb178997fb81c2c6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4f66c61fbfc9fb446841f9d66820e370, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 08a77a0c36927ac48be79ab332029240, type: 2}
